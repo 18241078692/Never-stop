@@ -1,2 +1,3 @@
 学习Git
 hello add
+pull 取得远端数据库的内容
